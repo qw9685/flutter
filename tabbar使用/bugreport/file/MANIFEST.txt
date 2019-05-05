@@ -1,0 +1,1309 @@
+[
+  {
+    "type": "get",
+    "property": "path",
+    "object": "__fs__",
+    "result": {
+      "style": "posix",
+      "cwd": "/Users/foxdingding/Desktop/flutter/flutter/tabbar使用"
+    },
+    "error": null,
+    "timestamp": 36
+  },
+  {
+    "type": "invoke",
+    "method": "file",
+    "positionalArguments": [
+      "/Users/foxdingding/flutter/bin/cache/lockfile"
+    ],
+    "namedArguments": {},
+    "object": "__fs__",
+    "result": "RecordingFile@1",
+    "error": null,
+    "timestamp": 38
+  },
+  {
+    "type": "invoke",
+    "method": "open",
+    "positionalArguments": [],
+    "namedArguments": {
+      "mode": "WRITE"
+    },
+    "object": "RecordingFile@1",
+    "result": "RecordingRandomAccessFile@2",
+    "error": null,
+    "timestamp": 43
+  },
+  {
+    "type": "invoke",
+    "method": "lock",
+    "positionalArguments": [
+      "FileLock",
+      0,
+      -1
+    ],
+    "namedArguments": {},
+    "object": "RecordingRandomAccessFile@2",
+    "result": "RecordingRandomAccessFile@2",
+    "error": null,
+    "timestamp": 49
+  },
+  {
+    "type": "get",
+    "property": "path",
+    "object": "__fs__",
+    "result": {
+      "style": "posix",
+      "cwd": "/Users/foxdingding/Desktop/flutter/flutter/tabbar使用"
+    },
+    "error": null,
+    "timestamp": 51
+  },
+  {
+    "type": "get",
+    "property": "path",
+    "object": "__fs__",
+    "result": {
+      "style": "posix",
+      "cwd": "/Users/foxdingding/Desktop/flutter/flutter/tabbar使用"
+    },
+    "error": null,
+    "timestamp": 51
+  },
+  {
+    "type": "get",
+    "property": "currentDirectory",
+    "object": "__fs__",
+    "result": "RecordingDirectory@3",
+    "error": null,
+    "timestamp": 51
+  },
+  {
+    "type": "get",
+    "property": "path",
+    "object": "RecordingDirectory@3",
+    "result": "/Users/foxdingding/Desktop/flutter/flutter/tabbar使用",
+    "error": null,
+    "timestamp": 53
+  },
+  {
+    "type": "get",
+    "property": "path",
+    "object": "__fs__",
+    "result": {
+      "style": "posix",
+      "cwd": "/Users/foxdingding/Desktop/flutter/flutter/tabbar使用"
+    },
+    "error": null,
+    "timestamp": 53
+  },
+  {
+    "type": "invoke",
+    "method": "typeSync",
+    "positionalArguments": [
+      "/Users/foxdingding/Desktop/flutter/flutter/tabbar使用/bin/flutter"
+    ],
+    "namedArguments": {
+      "followLinks": true
+    },
+    "object": "__fs__",
+    "result": "notFound",
+    "error": null,
+    "timestamp": 53
+  },
+  {
+    "type": "get",
+    "property": "path",
+    "object": "__fs__",
+    "result": {
+      "style": "posix",
+      "cwd": "/Users/foxdingding/Desktop/flutter/flutter/tabbar使用"
+    },
+    "error": null,
+    "timestamp": 53
+  },
+  {
+    "type": "get",
+    "property": "path",
+    "object": "__fs__",
+    "result": {
+      "style": "posix",
+      "cwd": "/Users/foxdingding/Desktop/flutter/flutter/tabbar使用"
+    },
+    "error": null,
+    "timestamp": 54
+  },
+  {
+    "type": "invoke",
+    "method": "typeSync",
+    "positionalArguments": [
+      "/Users/foxdingding/Desktop/flutter/flutter/bin/flutter"
+    ],
+    "namedArguments": {
+      "followLinks": true
+    },
+    "object": "__fs__",
+    "result": "notFound",
+    "error": null,
+    "timestamp": 54
+  },
+  {
+    "type": "get",
+    "property": "path",
+    "object": "__fs__",
+    "result": {
+      "style": "posix",
+      "cwd": "/Users/foxdingding/Desktop/flutter/flutter/tabbar使用"
+    },
+    "error": null,
+    "timestamp": 54
+  },
+  {
+    "type": "get",
+    "property": "path",
+    "object": "__fs__",
+    "result": {
+      "style": "posix",
+      "cwd": "/Users/foxdingding/Desktop/flutter/flutter/tabbar使用"
+    },
+    "error": null,
+    "timestamp": 54
+  },
+  {
+    "type": "invoke",
+    "method": "typeSync",
+    "positionalArguments": [
+      "/Users/foxdingding/Desktop/flutter/bin/flutter"
+    ],
+    "namedArguments": {
+      "followLinks": true
+    },
+    "object": "__fs__",
+    "result": "notFound",
+    "error": null,
+    "timestamp": 54
+  },
+  {
+    "type": "get",
+    "property": "path",
+    "object": "__fs__",
+    "result": {
+      "style": "posix",
+      "cwd": "/Users/foxdingding/Desktop/flutter/flutter/tabbar使用"
+    },
+    "error": null,
+    "timestamp": 54
+  },
+  {
+    "type": "get",
+    "property": "path",
+    "object": "__fs__",
+    "result": {
+      "style": "posix",
+      "cwd": "/Users/foxdingding/Desktop/flutter/flutter/tabbar使用"
+    },
+    "error": null,
+    "timestamp": 54
+  },
+  {
+    "type": "invoke",
+    "method": "typeSync",
+    "positionalArguments": [
+      "/Users/foxdingding/Desktop/bin/flutter"
+    ],
+    "namedArguments": {
+      "followLinks": true
+    },
+    "object": "__fs__",
+    "result": "notFound",
+    "error": null,
+    "timestamp": 55
+  },
+  {
+    "type": "get",
+    "property": "path",
+    "object": "__fs__",
+    "result": {
+      "style": "posix",
+      "cwd": "/Users/foxdingding/Desktop/flutter/flutter/tabbar使用"
+    },
+    "error": null,
+    "timestamp": 55
+  },
+  {
+    "type": "get",
+    "property": "path",
+    "object": "__fs__",
+    "result": {
+      "style": "posix",
+      "cwd": "/Users/foxdingding/Desktop/flutter/flutter/tabbar使用"
+    },
+    "error": null,
+    "timestamp": 55
+  },
+  {
+    "type": "invoke",
+    "method": "typeSync",
+    "positionalArguments": [
+      "/Users/foxdingding/bin/flutter"
+    ],
+    "namedArguments": {
+      "followLinks": true
+    },
+    "object": "__fs__",
+    "result": "notFound",
+    "error": null,
+    "timestamp": 55
+  },
+  {
+    "type": "get",
+    "property": "path",
+    "object": "__fs__",
+    "result": {
+      "style": "posix",
+      "cwd": "/Users/foxdingding/Desktop/flutter/flutter/tabbar使用"
+    },
+    "error": null,
+    "timestamp": 55
+  },
+  {
+    "type": "get",
+    "property": "path",
+    "object": "__fs__",
+    "result": {
+      "style": "posix",
+      "cwd": "/Users/foxdingding/Desktop/flutter/flutter/tabbar使用"
+    },
+    "error": null,
+    "timestamp": 55
+  },
+  {
+    "type": "invoke",
+    "method": "typeSync",
+    "positionalArguments": [
+      "/Users/bin/flutter"
+    ],
+    "namedArguments": {
+      "followLinks": true
+    },
+    "object": "__fs__",
+    "result": "notFound",
+    "error": null,
+    "timestamp": 55
+  },
+  {
+    "type": "get",
+    "property": "path",
+    "object": "__fs__",
+    "result": {
+      "style": "posix",
+      "cwd": "/Users/foxdingding/Desktop/flutter/flutter/tabbar使用"
+    },
+    "error": null,
+    "timestamp": 55
+  },
+  {
+    "type": "get",
+    "property": "path",
+    "object": "__fs__",
+    "result": {
+      "style": "posix",
+      "cwd": "/Users/foxdingding/Desktop/flutter/flutter/tabbar使用"
+    },
+    "error": null,
+    "timestamp": 55
+  },
+  {
+    "type": "invoke",
+    "method": "typeSync",
+    "positionalArguments": [
+      "/bin/flutter"
+    ],
+    "namedArguments": {
+      "followLinks": true
+    },
+    "object": "__fs__",
+    "result": "notFound",
+    "error": null,
+    "timestamp": 56
+  },
+  {
+    "type": "get",
+    "property": "path",
+    "object": "__fs__",
+    "result": {
+      "style": "posix",
+      "cwd": "/Users/foxdingding/Desktop/flutter/flutter/tabbar使用"
+    },
+    "error": null,
+    "timestamp": 56
+  },
+  {
+    "type": "invoke",
+    "method": "typeSync",
+    "positionalArguments": [
+      ".packages"
+    ],
+    "namedArguments": {
+      "followLinks": true
+    },
+    "object": "__fs__",
+    "result": "file",
+    "error": null,
+    "timestamp": 56
+  },
+  {
+    "type": "invoke",
+    "method": "file",
+    "positionalArguments": [
+      ".packages"
+    ],
+    "namedArguments": {},
+    "object": "__fs__",
+    "result": "RecordingFile@4",
+    "error": null,
+    "timestamp": 56
+  },
+  {
+    "type": "invoke",
+    "method": "readAsBytesSync",
+    "positionalArguments": [],
+    "namedArguments": {},
+    "object": "RecordingFile@4",
+    "result": "!005..packages",
+    "error": null,
+    "timestamp": 57
+  },
+  {
+    "type": "get",
+    "property": "path",
+    "object": "__fs__",
+    "result": {
+      "style": "posix",
+      "cwd": "/Users/foxdingding/Desktop/flutter/flutter/tabbar使用"
+    },
+    "error": null,
+    "timestamp": 74
+  },
+  {
+    "type": "invoke",
+    "method": "file",
+    "positionalArguments": [
+      "file:///Users/foxdingding/flutter/"
+    ],
+    "namedArguments": {},
+    "object": "__fs__",
+    "result": "RecordingFile@6",
+    "error": null,
+    "timestamp": 74
+  },
+  {
+    "type": "get",
+    "property": "absolute",
+    "object": "RecordingFile@6",
+    "result": "RecordingFile@7",
+    "error": null,
+    "timestamp": 75
+  },
+  {
+    "type": "get",
+    "property": "path",
+    "object": "RecordingFile@7",
+    "result": "/Users/foxdingding/flutter/",
+    "error": null,
+    "timestamp": 76
+  },
+  {
+    "type": "invoke",
+    "method": "typeSync",
+    "positionalArguments": [
+      "/Users/foxdingding/flutter"
+    ],
+    "namedArguments": {
+      "followLinks": true
+    },
+    "object": "__fs__",
+    "result": "directory",
+    "error": null,
+    "timestamp": 77
+  },
+  {
+    "type": "get",
+    "property": "path",
+    "object": "__fs__",
+    "result": {
+      "style": "posix",
+      "cwd": "/Users/foxdingding/Desktop/flutter/flutter/tabbar使用"
+    },
+    "error": null,
+    "timestamp": 77
+  },
+  {
+    "type": "invoke",
+    "method": "directory",
+    "positionalArguments": [
+      "/Users/foxdingding/flutter"
+    ],
+    "namedArguments": {},
+    "object": "__fs__",
+    "result": "RecordingDirectory@8",
+    "error": null,
+    "timestamp": 78
+  },
+  {
+    "type": "invoke",
+    "method": "resolveSymbolicLinksSync",
+    "positionalArguments": [],
+    "namedArguments": {},
+    "object": "RecordingDirectory@8",
+    "result": "/Users/foxdingding/flutter",
+    "error": null,
+    "timestamp": 78
+  },
+  {
+    "type": "get",
+    "property": "path",
+    "object": "__fs__",
+    "result": {
+      "style": "posix",
+      "cwd": "/Users/foxdingding/Desktop/flutter/flutter/tabbar使用"
+    },
+    "error": null,
+    "timestamp": 79
+  },
+  {
+    "type": "invoke",
+    "method": "directory",
+    "positionalArguments": [
+      "/Users/foxdingding/flutter"
+    ],
+    "namedArguments": {},
+    "object": "__fs__",
+    "result": "RecordingDirectory@9",
+    "error": null,
+    "timestamp": 79
+  },
+  {
+    "type": "invoke",
+    "method": "resolveSymbolicLinksSync",
+    "positionalArguments": [],
+    "namedArguments": {},
+    "object": "RecordingDirectory@9",
+    "result": "/Users/foxdingding/flutter",
+    "error": null,
+    "timestamp": 79
+  },
+  {
+    "type": "get",
+    "property": "path",
+    "object": "__fs__",
+    "result": {
+      "style": "posix",
+      "cwd": "/Users/foxdingding/Desktop/flutter/flutter/tabbar使用"
+    },
+    "error": null,
+    "timestamp": 80
+  },
+  {
+    "type": "get",
+    "property": "path",
+    "object": "__fs__",
+    "result": {
+      "style": "posix",
+      "cwd": "/Users/foxdingding/Desktop/flutter/flutter/tabbar使用"
+    },
+    "error": null,
+    "timestamp": 107
+  },
+  {
+    "type": "get",
+    "property": "path",
+    "object": "__fs__",
+    "result": {
+      "style": "posix",
+      "cwd": "/Users/foxdingding/Desktop/flutter/flutter/tabbar使用"
+    },
+    "error": null,
+    "timestamp": 131
+  },
+  {
+    "type": "invoke",
+    "method": "file",
+    "positionalArguments": [
+      "/Users/foxdingding/flutter/version"
+    ],
+    "namedArguments": {},
+    "object": "__fs__",
+    "result": "RecordingFile@10",
+    "error": null,
+    "timestamp": 131
+  },
+  {
+    "type": "invoke",
+    "method": "writeAsString",
+    "positionalArguments": [
+      "1.5.9-pre.20"
+    ],
+    "namedArguments": {
+      "mode": "WRITE",
+      "encoding": "utf-8",
+      "flush": false
+    },
+    "object": "RecordingFile@10",
+    "result": "RecordingFile@11",
+    "error": null,
+    "timestamp": 132
+  },
+  {
+    "type": "get",
+    "property": "path",
+    "object": "__fs__",
+    "result": {
+      "style": "posix",
+      "cwd": "/Users/foxdingding/Desktop/flutter/flutter/tabbar使用"
+    },
+    "error": null,
+    "timestamp": 136
+  },
+  {
+    "type": "get",
+    "property": "path",
+    "object": "__fs__",
+    "result": {
+      "style": "posix",
+      "cwd": "/Users/foxdingding/Desktop/flutter/flutter/tabbar使用"
+    },
+    "error": null,
+    "timestamp": 147
+  },
+  {
+    "type": "get",
+    "property": "path",
+    "object": "__fs__",
+    "result": {
+      "style": "posix",
+      "cwd": "/Users/foxdingding/Desktop/flutter/flutter/tabbar使用"
+    },
+    "error": null,
+    "timestamp": 192
+  },
+  {
+    "type": "get",
+    "property": "path",
+    "object": "__fs__",
+    "result": {
+      "style": "posix",
+      "cwd": "/Users/foxdingding/Desktop/flutter/flutter/tabbar使用"
+    },
+    "error": null,
+    "timestamp": 193
+  },
+  {
+    "type": "invoke",
+    "method": "directory",
+    "positionalArguments": [
+      "/Users/foxdingding/flutter/bin/cache"
+    ],
+    "namedArguments": {},
+    "object": "__fs__",
+    "result": "RecordingDirectory@12",
+    "error": null,
+    "timestamp": 193
+  },
+  {
+    "type": "get",
+    "property": "path",
+    "object": "RecordingDirectory@12",
+    "result": "/Users/foxdingding/flutter/bin/cache",
+    "error": null,
+    "timestamp": 193
+  },
+  {
+    "type": "invoke",
+    "method": "file",
+    "positionalArguments": [
+      "/Users/foxdingding/flutter/bin/cache/flutter_version_check.stamp"
+    ],
+    "namedArguments": {},
+    "object": "__fs__",
+    "result": "RecordingFile@13",
+    "error": null,
+    "timestamp": 193
+  },
+  {
+    "type": "invoke",
+    "method": "existsSync",
+    "positionalArguments": [],
+    "namedArguments": {},
+    "object": "RecordingFile@13",
+    "result": true,
+    "error": null,
+    "timestamp": 194
+  },
+  {
+    "type": "invoke",
+    "method": "readAsStringSync",
+    "positionalArguments": [],
+    "namedArguments": {
+      "encoding": "utf-8"
+    },
+    "object": "RecordingFile@13",
+    "result": "!014.flutter_version_check.stamp",
+    "error": null,
+    "timestamp": 194
+  },
+  {
+    "type": "get",
+    "property": "path",
+    "object": "__fs__",
+    "result": {
+      "style": "posix",
+      "cwd": "/Users/foxdingding/Desktop/flutter/flutter/tabbar使用"
+    },
+    "error": null,
+    "timestamp": 204
+  },
+  {
+    "type": "get",
+    "property": "path",
+    "object": "__fs__",
+    "result": {
+      "style": "posix",
+      "cwd": "/Users/foxdingding/Desktop/flutter/flutter/tabbar使用"
+    },
+    "error": null,
+    "timestamp": 204
+  },
+  {
+    "type": "invoke",
+    "method": "directory",
+    "positionalArguments": [
+      "/Users/foxdingding/flutter/bin/cache"
+    ],
+    "namedArguments": {},
+    "object": "__fs__",
+    "result": "RecordingDirectory@15",
+    "error": null,
+    "timestamp": 204
+  },
+  {
+    "type": "get",
+    "property": "path",
+    "object": "RecordingDirectory@15",
+    "result": "/Users/foxdingding/flutter/bin/cache",
+    "error": null,
+    "timestamp": 204
+  },
+  {
+    "type": "invoke",
+    "method": "file",
+    "positionalArguments": [
+      "/Users/foxdingding/flutter/bin/cache/flutter_version_check.stamp"
+    ],
+    "namedArguments": {},
+    "object": "__fs__",
+    "result": "RecordingFile@16",
+    "error": null,
+    "timestamp": 204
+  },
+  {
+    "type": "invoke",
+    "method": "existsSync",
+    "positionalArguments": [],
+    "namedArguments": {},
+    "object": "RecordingFile@16",
+    "result": true,
+    "error": null,
+    "timestamp": 204
+  },
+  {
+    "type": "invoke",
+    "method": "readAsStringSync",
+    "positionalArguments": [],
+    "namedArguments": {
+      "encoding": "utf-8"
+    },
+    "object": "RecordingFile@16",
+    "result": "!017.flutter_version_check.stamp",
+    "error": null,
+    "timestamp": 204
+  },
+  {
+    "type": "get",
+    "property": "path",
+    "object": "__fs__",
+    "result": {
+      "style": "posix",
+      "cwd": "/Users/foxdingding/Desktop/flutter/flutter/tabbar使用"
+    },
+    "error": null,
+    "timestamp": 216
+  },
+  {
+    "type": "invoke",
+    "method": "typeSync",
+    "positionalArguments": [
+      "pubspec.yaml"
+    ],
+    "namedArguments": {
+      "followLinks": true
+    },
+    "object": "__fs__",
+    "result": "file",
+    "error": null,
+    "timestamp": 283
+  },
+  {
+    "type": "invoke",
+    "method": "typeSync",
+    "positionalArguments": [
+      "flutter.yaml"
+    ],
+    "namedArguments": {
+      "followLinks": true
+    },
+    "object": "__fs__",
+    "result": "notFound",
+    "error": null,
+    "timestamp": 283
+  },
+  {
+    "type": "invoke",
+    "method": "typeSync",
+    "positionalArguments": [
+      "lib/main.dart"
+    ],
+    "namedArguments": {
+      "followLinks": true
+    },
+    "object": "__fs__",
+    "result": "file",
+    "error": null,
+    "timestamp": 284
+  },
+  {
+    "type": "invoke",
+    "method": "file",
+    "positionalArguments": [
+      "/usr/bin/xcodebuild"
+    ],
+    "namedArguments": {},
+    "object": "__fs__",
+    "result": "RecordingFile@18",
+    "error": null,
+    "timestamp": 303
+  },
+  {
+    "type": "invoke",
+    "method": "existsSync",
+    "positionalArguments": [],
+    "namedArguments": {},
+    "object": "RecordingFile@18",
+    "result": true,
+    "error": null,
+    "timestamp": 303
+  },
+  {
+    "type": "get",
+    "property": "path",
+    "object": "__fs__",
+    "result": {
+      "style": "posix",
+      "cwd": "/Users/foxdingding/Desktop/flutter/flutter/tabbar使用"
+    },
+    "error": null,
+    "timestamp": 419
+  },
+  {
+    "type": "invoke",
+    "method": "file",
+    "positionalArguments": [
+      "/Users/foxdingding/.flutter_settings"
+    ],
+    "namedArguments": {},
+    "object": "__fs__",
+    "result": "RecordingFile@19",
+    "error": null,
+    "timestamp": 420
+  },
+  {
+    "type": "invoke",
+    "method": "existsSync",
+    "positionalArguments": [],
+    "namedArguments": {},
+    "object": "RecordingFile@19",
+    "result": true,
+    "error": null,
+    "timestamp": 420
+  },
+  {
+    "type": "invoke",
+    "method": "readAsStringSync",
+    "positionalArguments": [],
+    "namedArguments": {
+      "encoding": "utf-8"
+    },
+    "object": "RecordingFile@19",
+    "result": "!020..flutter_settings",
+    "error": null,
+    "timestamp": 420
+  },
+  {
+    "type": "get",
+    "property": "path",
+    "object": "__fs__",
+    "result": {
+      "style": "posix",
+      "cwd": "/Users/foxdingding/Desktop/flutter/flutter/tabbar使用"
+    },
+    "error": null,
+    "timestamp": 422
+  },
+  {
+    "type": "get",
+    "property": "path",
+    "object": "__fs__",
+    "result": {
+      "style": "posix",
+      "cwd": "/Users/foxdingding/Desktop/flutter/flutter/tabbar使用"
+    },
+    "error": null,
+    "timestamp": 422
+  },
+  {
+    "type": "get",
+    "property": "path",
+    "object": "__fs__",
+    "result": {
+      "style": "posix",
+      "cwd": "/Users/foxdingding/Desktop/flutter/flutter/tabbar使用"
+    },
+    "error": null,
+    "timestamp": 422
+  },
+  {
+    "type": "get",
+    "property": "path",
+    "object": "__fs__",
+    "result": {
+      "style": "posix",
+      "cwd": "/Users/foxdingding/Desktop/flutter/flutter/tabbar使用"
+    },
+    "error": null,
+    "timestamp": 422
+  },
+  {
+    "type": "invoke",
+    "method": "typeSync",
+    "positionalArguments": [
+      "/Users/foxdingding/Library/Android/sdk/licenses"
+    ],
+    "namedArguments": {
+      "followLinks": true
+    },
+    "object": "__fs__",
+    "result": "directory",
+    "error": null,
+    "timestamp": 422
+  },
+  {
+    "type": "get",
+    "property": "path",
+    "object": "__fs__",
+    "result": {
+      "style": "posix",
+      "cwd": "/Users/foxdingding/Desktop/flutter/flutter/tabbar使用"
+    },
+    "error": null,
+    "timestamp": 423
+  },
+  {
+    "type": "invoke",
+    "method": "typeSync",
+    "positionalArguments": [
+      "/Users/foxdingding/Library/Android/sdk/ndk-bundle"
+    ],
+    "namedArguments": {
+      "followLinks": true
+    },
+    "object": "__fs__",
+    "result": "notFound",
+    "error": null,
+    "timestamp": 423
+  },
+  {
+    "type": "get",
+    "property": "path",
+    "object": "__fs__",
+    "result": {
+      "style": "posix",
+      "cwd": "/Users/foxdingding/Desktop/flutter/flutter/tabbar使用"
+    },
+    "error": null,
+    "timestamp": 424
+  },
+  {
+    "type": "invoke",
+    "method": "directory",
+    "positionalArguments": [
+      "/Users/foxdingding/Library/Android/sdk/build-tools"
+    ],
+    "namedArguments": {},
+    "object": "__fs__",
+    "result": "RecordingDirectory@21",
+    "error": null,
+    "timestamp": 424
+  },
+  {
+    "type": "invoke",
+    "method": "existsSync",
+    "positionalArguments": [],
+    "namedArguments": {},
+    "object": "RecordingDirectory@21",
+    "result": true,
+    "error": null,
+    "timestamp": 424
+  },
+  {
+    "type": "invoke",
+    "method": "listSync",
+    "positionalArguments": [],
+    "namedArguments": {
+      "recursive": false,
+      "followLinks": true
+    },
+    "object": "RecordingDirectory@21",
+    "result": [
+      "RecordingDirectory@22"
+    ],
+    "error": null,
+    "timestamp": 424
+  },
+  {
+    "type": "get",
+    "property": "basename",
+    "object": "RecordingDirectory@22",
+    "result": "28.0.3",
+    "error": null,
+    "timestamp": 426
+  },
+  {
+    "type": "get",
+    "property": "path",
+    "object": "__fs__",
+    "result": {
+      "style": "posix",
+      "cwd": "/Users/foxdingding/Desktop/flutter/flutter/tabbar使用"
+    },
+    "error": null,
+    "timestamp": 427
+  },
+  {
+    "type": "invoke",
+    "method": "directory",
+    "positionalArguments": [
+      "/Users/foxdingding/Library/Android/sdk/platforms"
+    ],
+    "namedArguments": {},
+    "object": "__fs__",
+    "result": "RecordingDirectory@23",
+    "error": null,
+    "timestamp": 427
+  },
+  {
+    "type": "invoke",
+    "method": "existsSync",
+    "positionalArguments": [],
+    "namedArguments": {},
+    "object": "RecordingDirectory@23",
+    "result": true,
+    "error": null,
+    "timestamp": 427
+  },
+  {
+    "type": "get",
+    "property": "path",
+    "object": "__fs__",
+    "result": {
+      "style": "posix",
+      "cwd": "/Users/foxdingding/Desktop/flutter/flutter/tabbar使用"
+    },
+    "error": null,
+    "timestamp": 427
+  },
+  {
+    "type": "invoke",
+    "method": "directory",
+    "positionalArguments": [
+      "/Users/foxdingding/Library/Android/sdk/platforms"
+    ],
+    "namedArguments": {},
+    "object": "__fs__",
+    "result": "RecordingDirectory@24",
+    "error": null,
+    "timestamp": 427
+  },
+  {
+    "type": "invoke",
+    "method": "listSync",
+    "positionalArguments": [],
+    "namedArguments": {
+      "recursive": false,
+      "followLinks": true
+    },
+    "object": "RecordingDirectory@24",
+    "result": [
+      "RecordingDirectory@25",
+      "RecordingDirectory@26",
+      "RecordingDirectory@27"
+    ],
+    "error": null,
+    "timestamp": 427
+  },
+  {
+    "type": "get",
+    "property": "basename",
+    "object": "RecordingDirectory@25",
+    "result": "android-25",
+    "error": null,
+    "timestamp": 429
+  },
+  {
+    "type": "get",
+    "property": "basename",
+    "object": "RecordingDirectory@26",
+    "result": "android-27",
+    "error": null,
+    "timestamp": 431
+  },
+  {
+    "type": "get",
+    "property": "basename",
+    "object": "RecordingDirectory@27",
+    "result": "android-28",
+    "error": null,
+    "timestamp": 432
+  },
+  {
+    "type": "get",
+    "property": "path",
+    "object": "__fs__",
+    "result": {
+      "style": "posix",
+      "cwd": "/Users/foxdingding/Desktop/flutter/flutter/tabbar使用"
+    },
+    "error": null,
+    "timestamp": 434
+  },
+  {
+    "type": "invoke",
+    "method": "file",
+    "positionalArguments": [
+      "/Users/foxdingding/Library/Android/sdk/platform-tools/adb"
+    ],
+    "namedArguments": {},
+    "object": "__fs__",
+    "result": "RecordingFile@28",
+    "error": null,
+    "timestamp": 434
+  },
+  {
+    "type": "invoke",
+    "method": "existsSync",
+    "positionalArguments": [],
+    "namedArguments": {},
+    "object": "RecordingFile@28",
+    "result": true,
+    "error": null,
+    "timestamp": 434
+  },
+  {
+    "type": "get",
+    "property": "path",
+    "object": "__fs__",
+    "result": {
+      "style": "posix",
+      "cwd": "/Users/foxdingding/Desktop/flutter/flutter/tabbar使用"
+    },
+    "error": null,
+    "timestamp": 434
+  },
+  {
+    "type": "invoke",
+    "method": "file",
+    "positionalArguments": [
+      "/Users/foxdingding/Library/Android/sdk/platform-tools/adb"
+    ],
+    "namedArguments": {},
+    "object": "__fs__",
+    "result": "RecordingFile@29",
+    "error": null,
+    "timestamp": 434
+  },
+  {
+    "type": "invoke",
+    "method": "existsSync",
+    "positionalArguments": [],
+    "namedArguments": {},
+    "object": "RecordingFile@29",
+    "result": true,
+    "error": null,
+    "timestamp": 434
+  },
+  {
+    "type": "get",
+    "property": "currentDirectory",
+    "object": "__fs__",
+    "result": "RecordingDirectory@30",
+    "error": null,
+    "timestamp": 1028
+  },
+  {
+    "type": "invoke",
+    "method": "childFile",
+    "positionalArguments": [
+      "pubspec.yaml"
+    ],
+    "namedArguments": {},
+    "object": "RecordingDirectory@30",
+    "result": "RecordingFile@31",
+    "error": null,
+    "timestamp": 1029
+  },
+  {
+    "type": "get",
+    "property": "path",
+    "object": "RecordingFile@31",
+    "result": "/Users/foxdingding/Desktop/flutter/flutter/tabbar使用/pubspec.yaml",
+    "error": null,
+    "timestamp": 1029
+  },
+  {
+    "type": "invoke",
+    "method": "typeSync",
+    "positionalArguments": [
+      "/Users/foxdingding/Desktop/flutter/flutter/tabbar使用/pubspec.yaml"
+    ],
+    "namedArguments": {
+      "followLinks": true
+    },
+    "object": "__fs__",
+    "result": "file",
+    "error": null,
+    "timestamp": 1030
+  },
+  {
+    "type": "invoke",
+    "method": "file",
+    "positionalArguments": [
+      "/Users/foxdingding/Desktop/flutter/flutter/tabbar使用/pubspec.yaml"
+    ],
+    "namedArguments": {},
+    "object": "__fs__",
+    "result": "RecordingFile@32",
+    "error": null,
+    "timestamp": 1030
+  },
+  {
+    "type": "invoke",
+    "method": "readAsString",
+    "positionalArguments": [],
+    "namedArguments": {
+      "encoding": "utf-8"
+    },
+    "object": "RecordingFile@32",
+    "result": "!033.pubspec.yaml",
+    "error": null,
+    "timestamp": 1031
+  },
+  {
+    "type": "invoke",
+    "method": "childDirectory",
+    "positionalArguments": [
+      "example"
+    ],
+    "namedArguments": {},
+    "object": "RecordingDirectory@30",
+    "result": "RecordingDirectory@34",
+    "error": null,
+    "timestamp": 1075
+  },
+  {
+    "type": "invoke",
+    "method": "childFile",
+    "positionalArguments": [
+      "pubspec.yaml"
+    ],
+    "namedArguments": {},
+    "object": "RecordingDirectory@34",
+    "result": "RecordingFile@35",
+    "error": null,
+    "timestamp": 1076
+  },
+  {
+    "type": "get",
+    "property": "path",
+    "object": "RecordingFile@35",
+    "result": "/Users/foxdingding/Desktop/flutter/flutter/tabbar使用/example/pubspec.yaml",
+    "error": null,
+    "timestamp": 1076
+  },
+  {
+    "type": "invoke",
+    "method": "typeSync",
+    "positionalArguments": [
+      "/Users/foxdingding/Desktop/flutter/flutter/tabbar使用/example/pubspec.yaml"
+    ],
+    "namedArguments": {
+      "followLinks": true
+    },
+    "object": "__fs__",
+    "result": "notFound",
+    "error": null,
+    "timestamp": 1076
+  },
+  {
+    "type": "invoke",
+    "method": "childDirectory",
+    "positionalArguments": [
+      "ios"
+    ],
+    "namedArguments": {},
+    "object": "RecordingDirectory@30",
+    "result": "RecordingDirectory@36",
+    "error": null,
+    "timestamp": 1078
+  },
+  {
+    "type": "invoke",
+    "method": "existsSync",
+    "positionalArguments": [],
+    "namedArguments": {},
+    "object": "RecordingDirectory@36",
+    "result": true,
+    "error": null,
+    "timestamp": 1078
+  },
+  {
+    "type": "invoke",
+    "method": "childDirectory",
+    "positionalArguments": [
+      "ios"
+    ],
+    "namedArguments": {},
+    "object": "RecordingDirectory@30",
+    "result": "RecordingDirectory@37",
+    "error": null,
+    "timestamp": 1078
+  },
+  {
+    "type": "invoke",
+    "method": "existsSync",
+    "positionalArguments": [],
+    "namedArguments": {},
+    "object": "RecordingDirectory@37",
+    "result": true,
+    "error": null,
+    "timestamp": 1078
+  }
+]
